@@ -41,5 +41,7 @@ The objective of this project is to develop an online shopping cart application 
  	Product listing and search.
  	Filtering products by name and price range.
  	Support for XML and JSON formats.
+
+
 The proposed online pharmacy shopping cart application will provide a seamless shopping experience for customers while offering powerful tools for administrators to manage products and orders. With secure and scalable technologies, the project aims to deliver a reliable and user-friendly platform.
 
