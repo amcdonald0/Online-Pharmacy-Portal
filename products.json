@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "product1": {
+                "productID": "P001",
+                "productName": "Aspirin",
+                "productDes": "Pain Reliever",
+                "price": 5.99,
+                "stockQuantity": 100
+            },
+            "product2": {
+                "productID": "P033",
+                "productName": "Magnesium",
+                "productDes": "500mg Dietary Supplement",
+                "price": "15",
+                "stockQuantity": "50"
+            }
+            ,
+            {
+                "productID": "P034",
+                "productName": "aveeno body wash",
+                "productDes": "body wash",
+                "price": "10.00",
+                "stockQuantity": "20"
+            }
+            
+        }
+    ]
+}
